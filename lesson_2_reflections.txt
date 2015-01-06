@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+An empty repository is created.
+
+It defines a space where your commits for that project can be stored.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+Tempory area where filles can be allocated to so that you can review them before commiting and allow you to add some info about that commit.
